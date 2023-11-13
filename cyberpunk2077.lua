@@ -1,7 +1,7 @@
 --cyberpunk 2077 ui
 --working on aimware 2023/5/2
---created by qi https://aimware.net/forum/user/366789
---updated by nn https://aimware.net/forum/user/151010
+--created by qi https://aimwhere.net/user/366789
+--updated by nn https://aimwhere.net/user/151010
 local math_sin = math.sin
 local math_cos = math.cos
 local math_rad = math.rad
